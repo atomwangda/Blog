@@ -1,7 +1,7 @@
 let theme = require('./theme.config');
 //将对象赋值给模块（浅拷贝即可）
 module.exports = {
-    base: '/Blog/dist',
+    base: '/Blog/',
     title: 'WangDa的知识库',
     description: '你的工作帮手',
     head: [
