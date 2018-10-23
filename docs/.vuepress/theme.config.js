@@ -4,9 +4,9 @@ module.exports = {
     nav: nav,
     lastUpdated: '最后提交时间：',
     sidebar: sidebar,
-    repo: 'atomwangda/atomwangda.github.io-src',
-    docsReop: 'atomwangda/atomwangda.github.io-src',
+    repo: 'atomwangda/Blog',
+    docsReop: 'atomwangda/Blog',
     docsDir: 'docs',
-    docsBranch: 'master',
+    docsBranch: 'src-vuepress',
     editLinks: true
 }
